@@ -4,5 +4,11 @@
     }
   }
   body {
-      display: flex;
+     background-color: #eee;
+     text-align: center;
+  }
+
+  .flex-container{
+    text-align: center;
+    display: flex;
   }
